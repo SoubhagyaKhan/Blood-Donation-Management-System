@@ -2,8 +2,9 @@
 Sl.No.	Name		Address		Blood-Group		Diabetic
 1	Soubhagya Khan	Asansol		O+			No
 2	Amar Jyoti Khan Shantipur	A+			Yes
-3	Sushanta Saha   Nabadwip	AB-			No
-4       Supratick Mondal kolkata        A+                      NO                           
+3	Sushanta Saha   Nabadwip	AB-			No                       
 5.      Baidurya Debnath Howrah         B+                      No
 7. Sayandeb Sarkae jalpaiguri  B+  
 8.  Ankit Pandey    Kolkata    A+      No
+
+9.supratick mondal 
